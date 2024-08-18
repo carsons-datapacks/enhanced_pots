@@ -1,0 +1,1 @@
+execute align xyz run summon minecraft:armor_stand ~0.5 ~ ~0.5 { Tags: ["pot_marker"], NoGravity: true, Invisible: true, Marker: true }

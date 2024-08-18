@@ -1,0 +1,8 @@
+[
+    {
+      "function": "minecraft:set_count",
+      "count": 16,
+      "add": true
+    }
+  ]
+  

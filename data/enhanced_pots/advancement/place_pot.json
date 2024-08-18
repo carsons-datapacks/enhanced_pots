@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "place_player_head": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {}
+          }
+        ],
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "minecraft:decorated_pot",
+            "properties": {}
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_pots:place_pot"
+  }
+}
