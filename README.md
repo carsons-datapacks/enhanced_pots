@@ -1,6 +1,8 @@
 # Enhanced Pots
 Upgrades to make decorated pots more useful.
 
+[Download Data Pack](https://github.com/carsons-datapacks/enhanced_pots/archive/refs/heads/main.zip)
+
 Watch the video to see it in action:
 
 [![](https://i.ytimg.com/an_webp/vqQo6c4QMV4/mqdefault_6s.webp?du=3000&sqp=CM7lkrYG&rs=AOn4CLBCE6P6hxBI12NEBdH4Z67OvjlKoA)](https://youtu.be/vqQo6c4QMV4)
