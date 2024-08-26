@@ -5,7 +5,7 @@ Upgrades to make decorated pots more useful.
 
 Watch the video to see it in action:
 
-[![](https://i.ytimg.com/an_webp/vqQo6c4QMV4/mqdefault_6s.webp?du=3000&sqp=CM7lkrYG&rs=AOn4CLBCE6P6hxBI12NEBdH4Z67OvjlKoA)](https://youtu.be/vqQo6c4QMV4)
+[![](https://github.com/user-attachments/assets/3a81062c-f96c-450a-924c-727d6bb8ab1b)](https://youtu.be/vqQo6c4QMV4)
 
 ### Enhancement #1
 Pots can store up to 96 items. This can be set up to 99 with the following command:
