@@ -1,0 +1,1 @@
+$attribute @s player.entity_interaction_range base set $(interaction_range)
