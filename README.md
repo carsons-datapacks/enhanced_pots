@@ -56,3 +56,13 @@ data modify storage enhanced_pots disable_explosions set value true
 # enable
 data remove storage enhanced_pots disable_explosions
 ```
+
+### `throwable`
+Disables gunpowder pots from being thrown.
+
+```mcfunction
+# enable
+data modify storage enhanced_pots throwable set value true
+# disable
+data remove storage enhanced_pots throwable
+```

@@ -1,0 +1,1 @@
+$summon minecraft:snowball ~ ~ ~ {Motion:[$(x), $(y), $(z)], Tags:["pot_projectile"], Passengers:[{id:"minecraft:item_display",item:{id:"minecraft:decorated_pot",count: $(explosion_radius)},Tags:["pot_projectile_item_display"], teleport_duration: 2}]}

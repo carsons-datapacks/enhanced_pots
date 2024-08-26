@@ -1,0 +1,7 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "nbt": "{SelectedItem:{id:\"minecraft:decorated_pot\",components:{\"minecraft:container\":[{item:{id:\"minecraft:gunpowder\"}}]}}}"
+  }
+}

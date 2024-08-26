@@ -1,0 +1,2 @@
+execute store result storage enhanced_pots:projectile interaction_range double 1 run scoreboard players get @s enhanced_pots.projectile_reset_interaction_range
+function enhanced_pots:projectile/reset_interaction_range_set with storage enhanced_pots:projectile
